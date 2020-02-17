@@ -12,3 +12,5 @@ y_data = [v[1] for v in vectors_set]
 
 plt.plot(x_data, y_data, 'ro',label ='Original data', alpha=0.5)
 plt.legend()
+
+어려워17일
